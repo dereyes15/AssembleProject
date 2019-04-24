@@ -1,0 +1,10 @@
+h2  {
+  padding: 10vh 5vw 0;
+  color: gray;
+}
+
+hr  {
+  width: 90%;
+  margin-left: 5% !important;
+  margin-right: 5% !important;
+}
